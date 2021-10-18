@@ -54,6 +54,7 @@
           },
           "feature-columns-1": {
             "type": "text_block",
+            "disabled": true,
             "settings": {
               "enable_image": true,
               "title": "Add a title or tagline",
@@ -64,6 +65,7 @@
           },
           "feature-columns-2": {
             "type": "text_block",
+            "disabled": true,
             "settings": {
               "enable_image": true,
               "title": "Add a title or tagline",
@@ -120,6 +122,7 @@
           },
           "quotes-1": {
             "type": "quote",
+            "disabled": true,
             "settings": {
               "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
               "author": "Author's name"
